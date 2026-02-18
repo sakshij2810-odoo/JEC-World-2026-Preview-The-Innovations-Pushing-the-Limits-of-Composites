@@ -1213,6 +1213,7 @@ section {
   width: 18px;
   height: 18px;
   border-radius: 50%;
+  margin-top: 10px;
   background-color: #47577c;
   border: 3px solid #ffffff;
   box-shadow: 0 0 0 2px #47577c;
